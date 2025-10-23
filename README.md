@@ -10,8 +10,12 @@ Subsequent PyTorch implementation of this code can be found at: [meshGraphNets_P
 
 # Authors
 
+## GNN Data Pre-Processing and Model Development
 - Sam St. John
 - Faezeh Bagheri
+
+## Input Data Generation
+
 
 # Usage
 
