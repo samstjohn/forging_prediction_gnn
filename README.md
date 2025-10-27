@@ -15,7 +15,11 @@ Subsequent PyTorch implementation of this code can be found at: [meshGraphNets_P
 - Faezeh Bagheri
 
 ## Input Data Generation
+Although their code is not included in this repository, we would like to recognize the following individuals for their work to generate, compile, and format input data. This effort resulted in all input data contained herein.
 
+- Ananya Vadrevu Kameswari
+- Tara Wagoner
+- Joshua Groves
 
 # Usage
 
