@@ -1,6 +1,8 @@
 # Graph Neural Networks for Fast Prediction of Plastic Metal Deformation in Hot Forging
 
-This repository contains code and sample data to demonstrate GNN capability to predict deformation in hot metal forging. The code uses methods presented in the original MeshGraphNets implementation as well as meshGraphNets_PyTorch.
+This repository contains code and sample data to demonstrate GNN capability to predict deformation in hot metal forging. The code presented enables creation of triangular meshes based on processed DEFORM data, which was updated to include tool geometry, and continue through the training of a GNN model.
+
+The code uses methods presented in the original MeshGraphNets implementation as well as meshGraphNets_PyTorch.
 
 Original MeshGraphNets research paper can be found at: [meshgraphnets research](https://arxiv.org/pdf/2010.03409)
 
